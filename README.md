@@ -91,46 +91,9 @@ JavaScript untuk validasi form dan interaktivitas
 
 
 # STRUKTUR PROYEK
-PROJECT_UAS/
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── script.js
-├── config/
-│   └── database.php
-├── controllers/
-│   ├── AdminController.php
-│   ├── AuthController.php
-│   ├── ProductController.php
-│   └── UserController.php
-├── images/          # Gambar produk
-│   ├── sunscreen.png
-│   ├── serum.png
-│   └── ... (15+ gambar)
-├── models/
-│   ├── Database.php
-│   ├── Product.php
-│   └── User.php
-├── views/
-│   ├── admin/
-│   │   ├── dashboard.php
-│   │   ├── product_add.php
-│   │   ├── product_edit.php
-│   │   ├── product_list.php
-│   │   └── sidebar.php
-│   ├── auth/
-│   │   ├── login.php
-│   │   └── register.php
-│   ├── layouts/
-│   │   ├── footer.php
-│   │   └── header.php
-│   └── user/
-│       ├── home.php
-│       └── products.php
-├── .htaccess
-├── autoload.php
-└── index.php
+
+
+<img width="571" height="675" alt="image" src="https://github.com/user-attachments/assets/c335e6e2-4024-40f2-81fe-e91b64bef343" />
 
 
 # SISTEM AUTENTIKASI
